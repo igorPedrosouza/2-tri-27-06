@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: " Ao fazer compras no supermercado, qual das seguintes atitudes melhor te descreve?",
+        enunciado: "Ao fazer compras no supermercado, qual das seguintes atitudes melhor te descreve?",
         alternativas: [
             {
                 texto: " Comprador(a) Consciente",
