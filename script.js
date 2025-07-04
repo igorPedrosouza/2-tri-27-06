@@ -19,15 +19,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Sobras de refeições são um desafio para você?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "afirmação"
+                texto: "Mestre das Sobras",
+                afirmacao: "Você adora transformar sobras em novas e deliciosas refeições, ou as congela para consumo posterior. Para você, nada se perde, tudo se transforma!"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "afirmação"
+                texto: "Despreocupado(a) com Sobras",
+                afirmacao: "Você tende a jogar fora as sobras que não foram consumidas imediatamente. A ideia de "dar um jeito" nas sobras não é algo que te ocorre com frequência."
             }
         ]
     },
