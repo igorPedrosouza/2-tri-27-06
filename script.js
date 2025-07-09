@@ -9,12 +9,12 @@ const perguntas = [
         enunciado: "Ao fazer compras no supermercado, qual das seguintes atitudes melhor te descreve?",
         alternativas: [
             {
-                texto: "Comprador(a) Consciente",
-                afirmacao: "Você costuma fazer uma lista antes de sair de casa e se esforça para comprar apenas o necessário, evitando promoções que te levariam a adquirir mais do que realmente precisa. Sua despensa e geladeira são bem organizadas e você sabe o que tem."
+                texto: "Comprador(a) Consciente!",
+                afirmacao: "Você costuma fazer um lista antes de sair de casa e se esforça para comprar apenas o necessário, evitando promoções que te levariam a adquirir mais do que realmente precisa. Sua despensa e geladeira são bem organizadas e você sabe o que tem."
             },
             {
-                texto: "Comprador(a) Impulsivo(a)",
-                afirmacao: "Você se sente atraído(a) por ofertas e muitas vezes compra mais do que planejava, especialmente itens que talvez não use antes que estraguem. Sua geladeira e despensa podem ter alguns "tesouros escondidos" que você esqueceu."
+                texto: "Comprador(a) Impulsivo(a)!",
+                afirmacao: "Vocẽ se sente atraído(a) por ofertas e muitas vezes compra mais do que planejava, especialmente itens que talvez não use antes que estraguem. Sua geladeira e despensa podem ter alguns 'tesouros escondidos' que você esqueceu."
             }
         ]
     },
@@ -22,51 +22,51 @@ const perguntas = [
         enunciado: "Sobras de refeições são um desafio para você?",
         alternativas: [
             {
-                texto: "Mestre das Sobras",
-                afirmacao: "Você adora transformar sobras em novas e deliciosas refeições, ou as congela para consumo posterior. Para você, nada se perde, tudo se transforma!"
+                texto: "Mestre das sobras.",
+                afirmacao: "Você adora transformar sobras em novas e deliciosas refeições, ou as congela para cotumo posterior. Para você, nada se perde, tudo se transforma."
             },
             {
-                texto: "Despreocupado(a) com Sobras",
-                afirmacao: "Você tende a jogar fora as sobras que não foram consumidas imediatamente. A ideia de "dar um jeito" nas sobras não é algo que te ocorre com frequência."
+                texto: "Despreocupado(a) com Sobras.",
+                afirmacao: "Você tende a jogar fora as sobras que não foram consumidas imediatamente. A ideia de 'dar um jeito' nas sobras não é algo que te ocorre com frequência."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Quando percebe que um alimento está próximo da validade, qual é a sua reação?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "afirmação"
+                texto: "Otimizador(a) de Alimentos.",
+                afirmacao: "Vocẽ imediatamente pensa em formas de usar aquele alimento, seja cozinhando, congelando ou oferecendo a alguém que possa consumi-lo a tempo."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "afirmação"
+                texto: "Descartador(a) Rápido(a).",
+                afirmacao: "Você tende a jogar fora o alimentos que estão perto do vencimento por preucação,mesmo que ainda pareça bons para consumo."
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Como você lida com frutas,legumes e verduras que não estão perfeitos?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "afirmação"
+                texto: "Consumidor(a) sem Preconceito.",
+                afirmacao: "Você entende que a aparência não interfere no sabor ou na qualidade nutricional e compra esses alimentos sem hesitação, sabendo que pode usá-los em diversas preparações."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "afirmação"
+                texto: "Apreciador(a) da Perfeição.",
+                afirmacao: "Você geralmente evita comprar frutas, legumes e verduras que não estão com a aparência impécavel, preferindo apenas os 'bonitos' e sem imperfeições."
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Qual das afirmações a seguir melhor descreve sua atitude geral em relação ao planejamento de refeições? ",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "afirmação"
+                texto: "Planejador(a) Estratégico(a).",
+                afirmacao: "VocÊ costuma planejar suas refeições com antecedência, o que te ajuda a comprar apenas o necessário e a evitar desperdícios. Você se sente no controle do que come e do que compra"
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "afirmação"
+                texto: "Aventureiro(a) Culinário(a) espontâneo.",
+                afirmacao: "Você prefere decidir o que comer na hora, o que às vezes resulta em compras desnecessárias ou alimentos esquecidos que acabam estragando."
             }
         ]
     },
